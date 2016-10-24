@@ -54,7 +54,6 @@ public enum XMSegmentItemWidthDistribution {
     case flexible
 }
 
-@IBDesignable
 open class XMSegmentedControl: UIView {
 
     open var delegate: XMSegmentedControlDelegate?
